@@ -1,5 +1,5 @@
 ---
-title: "Main"
+title: "Me and My Digital Garden"
 ---
 
 - [GitHub](https://github.com/cutthroat78)
