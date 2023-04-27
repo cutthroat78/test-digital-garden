@@ -18,8 +18,8 @@ marketing:
     site_type: Project
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: "CutThroat's Digital Garden / Second Brain / Knowledge Base" 
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false

@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'My Notes' # Website name
-baseURL: 'https://example.com/' # Website URL
+title: "CutThroat's Digital Garden"
+baseURL: 'https://cutthroat78.github.io/digital-garden/'
 
 ############################
 ## PAGE OPTIONS
@@ -15,14 +15,14 @@ cascade:
   - _target:
       path: /**
     type: book
-    editable: true
+    editable: false
     show_breadcrumb: true
 
 ############################
 ## LANGUAGE
 ############################
 
-languageCode: en-us
+languageCode: en-uk
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
