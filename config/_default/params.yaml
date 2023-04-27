@@ -43,16 +43,16 @@ footer:
   copyright:
     notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '02/01/2006'
+  time_format: '03:04:05'
 
 # Site features
 
