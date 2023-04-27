@@ -1,3 +1,10 @@
+---
+
+title: {{ .Title }}
+date: {{ .date }}
+
+---
+
 # CutThroat's Digital Garden
 
 - [GitHub](https://github.com/cutthroat78)
