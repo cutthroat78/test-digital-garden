@@ -1,1 +1,4 @@
-# Sentence Mining
+---
+title: "Sentence Mining"
+weight: 8
+---

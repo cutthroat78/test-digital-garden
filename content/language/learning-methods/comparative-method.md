@@ -1,4 +1,7 @@
-# Comparative Study Method
+---
+title: "Comparative Study Method"
+weight: 8
+---
 
 (mention 808CJK somewhere)
 
