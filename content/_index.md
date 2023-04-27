@@ -1,41 +1,34 @@
----
-title: ✍️ Second Brain
-date: 2022-09-24
-toc: false
+# CutThroat's Digital Garden
 
-image:
-  filename: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
----
+- [GitHub](https://github.com/cutthroat78)
+- [Blog Posts](#blog-posts)
+- [Projects](#projects)
+- [Associations](#associations)
 
-Welcome to the _Second Brain_ template!
+This website contains (a small amount of) details about me and what I do and contains my blog that I use to talk about:
+- Linux/FOSS
+- Reviews (Video Games, Movies, TV Shows, Software, Books, etc.)
+- (Human) Languages (and Lingustics)
+- Updates on My Projects
+- Anything Else I Feel Like Writing About
 
-The **Second Brain** starter template empowers you to easily create **personal notes** and **knowledge bases** in a future-proof way.
+## Blog Posts
 
-- It is your second brain 🧠, stored in future-proof Markdown files 
-- Supports audio, video, images, math, code, [Mermaid](https://mermaid.live/) diagrams, and [much more](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- Edit your notes online in GitHub, or any Git-connected Markdown app such as [Obsidian](https://obsidian.md/) or [Visual Studio Code](https://vscode.dev/)
+<!--[##/##/#### - Category: Title]()-->
 
-```markmap {height="200px"}
-- Second Brain
-  - **powerful** knowledge base
-  - **easy**: just plain text Markdown files
-  - all your thoughts are **connected**
-  - highly **extensible**
-  - **future-proof** & open source ❤️
-```
+## Projects
 
-## Public vs Private Second Brain
+- [Leaving Cert Notes](https://cutthroat78.github.io/Leaving-Cert-Notes) - [Repo](https://github.com/cutthroat78/Leaving-Cert-Notes) -  A repo full of notes for the (Irish) Leaving Cert
+- [LibreLingo](https://librelingo.app/) - [Repo](https://github.com/LibreLingo/LibreLingo) - A community-owned language-learning platform. Created by [Kantord](https://github.com/kantord). I am making LibreLingo courses and I have helped with the project
+  - [Oneida (Canada) From English LibreLingo Course](https://github.com/cutthroat78/LibreLingo-Oneida-Canada-From-English)
+  - [toki pona From English LibreLingo Course](https://github.com/cutthroat78/LibreLingo-toki-pona-From-English)
+- [Language Learning Resources](https://cutthroat78.github.io/Language-Learning-Resources) - [Repo](https://github.com/cutthroat78/Language-Learning-Resources) - A repo with (lists) of resources and anki decks to learn (human) languages
+- Anki Decks
+  - [Leaving Cert Notes Anki Decks](https://github.com/cutthroat78/Leaving-Cert-Notes/tree/main/anki)
+  - [Language Learning Resources Anki Decks](https://github.com/cutthroat78/Language-Learning-Resources/releases)
+  - [Branches of Science Anki Deck](https://github.com/cutthroat78/Branches-of-Science-Anki-Deck)
 
-Choose between **publishing and sharing your knowledge online or creating a private second brain**.
+## Associations
 
-To create an **open second brain**, share your knowledge with others [by deploying this template](https://wowchemy.com/hugo-themes/) as a public website.
-
-To create a **private second brain** either:
-
-- After deploying your site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
-- [Download this template](https://github.com/wowchemy/hugo-second-brain-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
-
-## Example notebook
-
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
+- [Dublin Linux Community](https://dublinlinux.org/)
+- [LibreLingo](https://github.com/LibreLingo/LibreLingo)
