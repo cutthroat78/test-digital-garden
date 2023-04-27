@@ -1,11 +1,9 @@
 ---
 
-title: {{ .Title }}
-date: {{ .date }}
+title: "CutThroat's Digital Garden"
 
 ---
 
-# CutThroat's Digital Garden
 
 - [GitHub](https://github.com/cutthroat78)
 - [Blog Posts](#blog-posts)
