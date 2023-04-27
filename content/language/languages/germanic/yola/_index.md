@@ -2,7 +2,7 @@
 title: "Yola"
 ---
 
-Historically: the Forth and Bargy dialect
+Historically called: the Forth and Bargy dialect
 
 (investigate this more)
 
